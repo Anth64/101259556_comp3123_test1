@@ -1,0 +1,19 @@
+{
+  "name": "101259556_comp3123_test1",
+  "version": "1.0.0",
+  "description": "Lab Test 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anth64/101259556_comp3123_test1.git"
+  },
+  "author": "Anthony Giugni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anth64/101259556_comp3123_test1/issues"
+  },
+  "homepage": "https://github.com/Anth64/101259556_comp3123_test1#readme"
+}
